@@ -15,7 +15,7 @@
                 </template>
             </v-tooltip>
         </td>
-        <td class="text-no-wrap text-left">
+        <td class="text-no-wrap text-center">
             <div v-if="rpm !== null">
                 <small :class="rpmClass">{{ rpm }} RPM</small>
             </div>

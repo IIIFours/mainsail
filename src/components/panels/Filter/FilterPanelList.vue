@@ -171,6 +171,6 @@ export default class TemperaturePanelList extends Mixins(BaseMixin) {
 
 .temperature-panel-table ::v-deep .current {
     width: 100px;
-    text-align: left !important;
+    text-align: center !important;
 }
 </style>
