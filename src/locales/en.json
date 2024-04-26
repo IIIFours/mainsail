@@ -759,6 +759,34 @@
             "TempTooHigh": "Temperature too high for {name}! (max: {max})",
             "TempTooLow": "Temperature too low for {name}! (min: {min})"
         },
+        "FilterPanel": {
+            "AutoscaleChart": "Autoscale Chart",
+            "Avg": "Avg",
+            "Cooldown": "Cooldown",
+            "Current": "Current",
+            "Dataset": {
+                "Power": "PWM-power",
+                "Speed": "PWM-speed",
+                "Target": "target temperature",
+                "Temperature": "current temperature"
+            },
+            "Headline": "Filter",
+            "HideMcuHostSensors": "Hide Host/MCU Sensors",
+            "HideMonitors": "Hide Monitors",
+            "Max": "max",
+            "Min": "min",
+            "Name": "Name",
+            "Presets": "Presets",
+            "SetupTemperatures": "Setup Temperatures",
+            "ShowChart": "Show Chart",
+            "ShowNameInChart": "Show {name} in chart",
+            "ShowNameInList": "Show {name} in list",
+            "State": "State",
+            "Target": "Target",
+            "IndexesInChart": "Indexes",
+            "TempTooHigh": "Temperature too high for {name}! (max: {max})",
+            "TempTooLow": "Temperature too low for {name}! (min: {min})"
+        },
         "ToolheadControlPanel": {
             "Absolute": "absolute",
             "ALL": "ALL",

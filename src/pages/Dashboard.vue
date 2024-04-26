@@ -95,6 +95,7 @@ import SpoolmanPanel from '@/components/panels/SpoolmanPanel.vue'
 import StatusPanel from '@/components/panels/StatusPanel.vue'
 import ToolheadControlPanel from '@/components/panels/ToolheadControlPanel.vue'
 import TemperaturePanel from '@/components/panels/TemperaturePanel.vue'
+import FilterPanel from '@/components/panels/FilterPanel.vue'
 import WebcamPanel from '@/components/panels/WebcamPanel.vue'
 
 @Component({
@@ -111,6 +112,7 @@ import WebcamPanel from '@/components/panels/WebcamPanel.vue'
         StatusPanel,
         ToolheadControlPanel,
         TemperaturePanel,
+        FilterPanel,
         WebcamPanel,
     },
 })
